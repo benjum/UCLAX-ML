@@ -1,0 +1,14 @@
+jupyterlab
+jupyter-resource-usage
+numpy
+matplotlib
+pandas
+seaborn
+plotly
+ipywidgets
+statsmodels
+scikit-learn
+dtreeviz
+xgboost
+nltk
+gensim
